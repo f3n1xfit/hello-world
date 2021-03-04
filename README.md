@@ -1,2 +1,2 @@
 # hello-world
-Just another repository to start my coding career
+Just my first little addition to my github in the start of hopefully a long and successful software devlopment career
